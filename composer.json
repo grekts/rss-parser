@@ -1,0 +1,17 @@
+{
+    "name": "grekts/rss-parser",
+    "description": "Parse Rss feeds",
+    "keywords": ["yii2", "rss", "parser", "rss parser"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Roman Tsutskov"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "grekts\\rss-parser\\": ""
+        }
+    }
+}
